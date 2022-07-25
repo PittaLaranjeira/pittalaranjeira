@@ -48,7 +48,7 @@ Tenho 28 anos e estou buscando uma oportunidade na área de Tecnologia da Inform
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 <br>
 
-#### IDE's
+### IDE's
 		
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -56,7 +56,7 @@ Tenho 28 anos e estou buscando uma oportunidade na área de Tecnologia da Inform
 <br>
 
 <!--
-#### Projetos
+### Projetos
 
 ![Projeto](https://github-readme-stats.vercel.app/api/pin/?username=pittalaranjeira&repo=pittalaranjeira.github.io&theme=dark)
 <br>
