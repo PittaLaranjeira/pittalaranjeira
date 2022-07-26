@@ -57,7 +57,7 @@ Tenho 28 anos e estou buscando uma oportunidade na área de Tecnologia da Inform
 
 ### Projetos
 
-![Projeto](https://github-readme-stats.vercel.app/api/pin/?username=pittalaranjeira&repo=pithon-automacao&theme=dark)
+![Projeto](https://github-readme-stats.vercel.app/api/pin/?username=pittalaranjeira&repo=python-automacao&theme=dark)
 <br>
 
 ### Contato
