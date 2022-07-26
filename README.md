@@ -55,12 +55,10 @@ Tenho 28 anos e estou buscando uma oportunidade na área de Tecnologia da Inform
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 <br>
 
-<!--
 ### Projetos
 
-![Projeto](https://github-readme-stats.vercel.app/api/pin/?username=pittalaranjeira&repo=pittalaranjeira.github.io&theme=dark)
+![Projeto](https://github-readme-stats.vercel.app/api/pin/?username=pittalaranjeira&repo=pithon-automacao&theme=dark)
 <br>
--->
 
 ### Contato
 
