@@ -46,6 +46,7 @@
 ### Projetos / Projects
 
 ![Projeto](https://github-readme-stats.vercel.app/api/pin/?username=pittalaranjeira&repo=python-automacao&theme=dark&title_color=0000c2&bg_color=0a0a0a&border_color=0000c2&text_color=ffffff&icon_color=0000c2)
+![Projeto](https://github-readme-stats.vercel.app/api/pin/?username=pittalaranjeira&repo=calculadora_ionic&theme=dark&title_color=0000c2&bg_color=0a0a0a&border_color=0000c2&text_color=ffffff&icon_color=0000c2)
 <br>
 
 ### Contato / Contact
