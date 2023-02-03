@@ -1,18 +1,11 @@
-## ⚡ oi | hi ⚡  
-
-### Biografia / Bio
-
-##### Estudando Python e trabalhando no meu portfólio / Learning Python and working on my portfolio
-
 ### Resumo / Overview 
 
 <p align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=pittalaranjeira&include_all_commits=true&count_private=true&show_icons=true&theme=dark&title_color=0000c2&bg_color=0a0a0a&border_color=0000c2&text_color=ffffff&icon_color=0000c2" align = "center"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pittalaranjeira&show_icons=true&locale=en&layout=compact&theme=dark&title_color=0000c2&bg_color=0a0a0a&border_color=0000c2&text_color=ffffff&icon_color=0000c2" align = "center"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=pittalaranjeira&count_private=true&title_color=ffff0a&bg_color=ff0000&text_color=ffffff&icon_color=ffff00&show_icons=true" align="top"/>
+<img height="290em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pittalaranjeira&title_color=ffff0a&bg_color=ff0000&text_color=ffffff&icon_color=ffff00&show_icons=true"/>
 </p>
 
-### Banco de Dados / Databases
-		
+### Banco de Dados / Databases		
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
