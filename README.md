@@ -1,8 +1,8 @@
 ### Resumo / Overview 
 
-<p align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=pittalaranjeira&count_private=true&title_color=ffff0a&bg_color=ff0000&text_color=ffffff&icon_color=ffff00&show_icons=true" align="top"/>
-<img height="290em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pittalaranjeira&title_color=ffff0a&bg_color=ff0000&text_color=ffffff&icon_color=ffff00&show_icons=true"/>
+<p>
+<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=pittalaranjeira&show_icons=true&locale=en" alt="pittalaranjeira"/>
+<img align="center"  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pittalaranjeira&show_icons=true&locale=en&layout=compact" alt="pittalaranjeira"/>
 </p>
 
 ### Banco de Dados / Databases		
@@ -37,10 +37,10 @@
 <br>
 
 ### Projetos / Projects
-
-![Projeto](https://github-readme-stats.vercel.app/api/pin/?username=pittalaranjeira&repo=python-automacao&theme=dark&title_color=0000c2&bg_color=0a0a0a&border_color=0000c2&text_color=ffffff&icon_color=0000c2)
-![Projeto](https://github-readme-stats.vercel.app/api/pin/?username=pittalaranjeira&repo=calculadora_ionic&theme=dark&title_color=0000c2&bg_color=0a0a0a&border_color=0000c2&text_color=ffffff&icon_color=0000c2)
-<br>
+<p>
+<img align="left" height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=pittalaranjeira&repo=python-automacao&icon_color=0000c2" alt="pittalaranjeira"/>
+<img align="center"  height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=pittalaranjeira&repo=calculadora_ionic&icon_color=0000c2"  alt="pittalaranjeira"/>
+</p>
 
 ### Contato / Contact
 
