@@ -1,7 +1,7 @@
 ### Resumo / Overview 
 
 <p>
-<img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=pittalaranjeira&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="pittalaranjeira"/>
+<img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=pittalaranjeira&show_icons=true&locale=en&count_private=true" alt="pittalaranjeira"/>
 <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pittalaranjeira&show_icons=true&locale=en&layout=compact&langs_count=10" alt="pittalaranjeira"/>	
 </p>
 
